@@ -64,5 +64,9 @@ class Student
       self.new_from_db(row)
     end.first
   end
+  
+  def update
+    
+  end
 
 end
